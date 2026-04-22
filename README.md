@@ -1,5 +1,4 @@
 # ETL-Data-Pipeline
-# ETL Data Pipeline
 
 ## 📌 Overview
 This project demonstrates a Python-based ETL (Extract, Transform, Load) pipeline.
